@@ -1,5 +1,5 @@
 # 👦🏽 About Me:
-🔭 I'm currently working on My startup Jumpframe.<br> 🌱 I'm constantly learning and improving my skills in Blender and React Native .<br> 💬 Ask me about Frontend and Product Design.<br> 📫 You can reach me at michael@creativemyke.com.<br> 📝 You can also check out my www.jumpframe.com/michael or my socials @Creativemyke for more content.
+🔭 I'm currently working on My startup Jumpframe.<br> 🌱 I'm constantly learning and improving my skills in Blender and React Native .<br> 💬 Ask me about Frontend and Product Design.<br> 📫 You can reach me at michael@creativemyke.com.<br> 📝 You can also check out my www.creativemyke.com.com or my socials @Creativemyke for more content.
 
 
 ## 🌐 Socials:
